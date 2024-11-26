@@ -3,7 +3,6 @@
 Este proyecto demuestra el uso de Git con Eclipse y Visual Studio Code, y la implementación de métodos en Java.
 
 ## Pasos del Proyecto
-
 1. **Clonar repositorio**: `https://github.com/EnriquePicasso/Act3GIT.git`
 2. **Crear repositorio local**: `Act3GIT_Tunombre`
 3. **Implementar método**: Mostrar 20 números aleatorios entre 1 y 10
@@ -15,13 +14,11 @@ Este proyecto demuestra el uso de Git con Eclipse y Visual Studio Code, y la imp
 9. **Fork y Pull Request**: Fork del repositorio de un compañero, modificar un método y enviar Pull Request
 
 ## Funcionalidades
-
 - **Mostrar números aleatorios**: 30 números entre 1 y 10
 - **Números entre dos valores**: Enteros entre dos valores incrementando de 7 en 7
 - **Mostrar número en rango**: Mostrar un tercer número si está entre los dos primeros
 
-## Versiones
-
+## Tags de guardado
 - **V1.0**: Método de números aleatorios
 - **V2.0**: Programa con enteros entre dos valores y tercer número
 - **V3.0**: Todas las funcionalidades implementadas
