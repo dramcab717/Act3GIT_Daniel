@@ -17,15 +17,20 @@ public class programa2 {
             num2 = scanner.nextInt();
         }
 
+        System.out.println("Introduce un tercer número:");
+        int num3 = scanner.nextInt();
+
         int start = Math.min(num1, num2);
         int end = Math.max(num1, num2);
 
         System.out.println("Números entre " + start + " y " + end + " incrementando de 7 en 7:");
         for (int i = start; i <= end; i += 7) {
             System.out.println(i);
+            if (i == num3) {
+                System.out.println("Tercer número: " + num3);
+            }
         }
 
         scanner.close();
     }
 }
-
